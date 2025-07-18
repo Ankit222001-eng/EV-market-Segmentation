@@ -1,11 +1,11 @@
-# EV-market-Segmentation
-# 🚗 EV Market Segmentation Based on Age (India)
+
+#  EV Market Segmentation Based on Age (India)
 
 This project focuses on **segmenting the Indian EV market based on the age of the customers**, using demographic and income data from an automobile buying behavior dataset. The goal is to identify which age groups are most likely to adopt Electric Vehicles (EVs) and how their preferences vary in terms of price, salary, and other features.
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 **Primary Dataset:** `Indian automoble buying behavour study 1.0.csv`
 
@@ -27,7 +27,7 @@ This project focuses on **segmenting the Indian EV market based on the age of th
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 - **Age distribution**: Majority of buyers fall in the 26–38 age range.
 - **Loan effect**: Personal and home loans do not strongly influence EV buying.
